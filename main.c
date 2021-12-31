@@ -60,7 +60,7 @@ int main(void) {
         printf("\n\t\t\t\tHours:\tMinutes:   Seconds:");
         printf("\n\t\t\t\t%02d\t%02d\t   %02d", hours, minutes, seconds);
 
-        Sleep(d); // Sleep(1000), waits 1 millisecond
+        Sleep(d); // Sleep(1000), waits 1000 milliseconds before refreshing
         system("cls");
     }
 
