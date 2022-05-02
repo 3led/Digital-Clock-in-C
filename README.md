@@ -1,6 +1,8 @@
 # Digital-Clock-in-C
 A Digital Clock in the console, created using C
 
+(I created this before I took CS136 to learn more about C)
+
 
 Make sure you enter only positive integers
 
